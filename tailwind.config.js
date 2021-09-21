@@ -3,7 +3,12 @@ module.exports = {
   //configure the purge option with the paths to all of your components so Tailwind can tree-shake unused styles in production builds
   darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {},
+    colors: {
+      white: '#FCFAFA',
+      blue: '#9CB1BF',
+      green: '#9ABC9C',
+      black: '#232C33',
+    }
   },
   variants: {
     extend: {},
