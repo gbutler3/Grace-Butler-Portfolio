@@ -11,7 +11,7 @@ import notes from "../../assets/Note Taker screenshot.PNG"
 
 function Projects() {
   return (
-    <body className= "bg-blue">
+    <body className= "bg-blue pb-1">
       <h1 className="text-center pt-5 text-6xl">Projects</h1>
       
       <section className=" flex flex-wrap gap-12 justify-center text-center m-10 sm:py-12 ">

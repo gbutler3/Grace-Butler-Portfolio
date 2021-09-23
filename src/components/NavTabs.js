@@ -4,7 +4,7 @@ import React from 'react';
 // We assign them to their own variable names
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs flex bg-black text-white">
+    <ul className="nav nav-tabs flex bg-black text-white text-2xl ">
       <li className="nav-itemn m-5" >
         <a 
           href="#home"
@@ -14,7 +14,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           Home
         </a>
       </li>
-      <li className="nav-item m-5">
+      <li className="nav-item m-5 text-2xl ">
         <a
           href="#about"
           onClick={() => handlePageChange('About')}
@@ -24,7 +24,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           About
         </a>
       </li>
-      <li className="nav-item m-5" >
+      <li className="nav-item m-5 text-2xl " >
         <a
           href="#project"
           onClick={() => handlePageChange('Projects')}
@@ -34,7 +34,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           Projects
         </a>
       </li>
-      <li className="nav-item m-5">
+      <li className="nav-item m-5 text-2xl ">
         <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}
