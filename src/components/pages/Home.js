@@ -1,12 +1,10 @@
-import React from "react";
+import React from 'react';
 
-
-function Home() {
+export default function Home() {
   return (
-    <div>
-      <p>Home</p>
-    </div>
+    <body> 
+    <h1 className= "text-center text-8xl md\:my-auto md:align-text-top sm:align-text-top">Grace Butler's</h1>
+    <h2 className= "text-center text-6xl md:align-text-top sm:align-text-top"> Portfolio</h2>
+    </body>
   );
 }
-
-export default Home;
