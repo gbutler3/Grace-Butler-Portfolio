@@ -1,10 +1,18 @@
 import React from 'react';
+import backgroundImage from '../../assets/IMG_1595.jpg'
 
 export default function Home() {
+  var background = {backgroundSize : 'cover'};
+  var textStyle = {
+    position: 'absolute', 
+    top: '45%', 
+    left: '30%',
+    color: 'white'
+  };
   return (
-    <body> 
-    <h1 className= "text-center text-8xl md\:my-auto md:align-text-top sm:align-text-top">Grace Butler's</h1>
-    <h2 className= "text-center text-6xl md:align-text-top sm:align-text-top"> Portfolio</h2>
+    <body>
+    <img alt='mountainImg' src= {backgroundImage} style={{background}}></img> 
+    <h1 style={textStyle} className= "text-center text-8xl md\:my-auto md:align-text-top sm:align-text-top" >Grace Butler's<br></br> Portfolio</h1>
     </body>
   );
 }
