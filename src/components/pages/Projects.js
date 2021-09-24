@@ -12,9 +12,9 @@ import notes from "../../assets/Note Taker screenshot.PNG"
 function Projects() {
   return (
     <body className= "bg-blue pb-1">
-      <h1 className="text-center pt-5 text-6xl">Projects</h1>
+      <h1 className="text-center text-7xl mt3">Projects</h1>
       
-      <section className=" flex flex-wrap gap-12 justify-center text-center m-10 sm:py-12 ">
+      <section className=" flex flex-wrap gap-12 justify-center text-center m-10 mt-3 sm:py-12 ">
         <card className= " relative py-3 sm:max-w-xl sm:mx-auto ">
           <div className= " relative px-4 bg-white shadow-lg sm:rounded-3xl sm:p-10 transform hover:scale-110 motion-reduce:transform-none ">
             <div className= "mx-auto">
