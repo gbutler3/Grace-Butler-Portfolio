@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Grace-Butler-Portfolio/static/css/main.6b3e79d8.chunk.css",
+    "main.js": "/Grace-Butler-Portfolio/static/js/main.2d64787c.chunk.js",
+    "main.js.map": "/Grace-Butler-Portfolio/static/js/main.2d64787c.chunk.js.map",
+    "runtime-main.js": "/Grace-Butler-Portfolio/static/js/runtime-main.5d8716c9.js",
+    "runtime-main.js.map": "/Grace-Butler-Portfolio/static/js/runtime-main.5d8716c9.js.map",
+    "static/js/2.12366445.chunk.js": "/Grace-Butler-Portfolio/static/js/2.12366445.chunk.js",
+    "static/js/2.12366445.chunk.js.map": "/Grace-Butler-Portfolio/static/js/2.12366445.chunk.js.map",
+    "static/js/3.6de22d65.chunk.js": "/Grace-Butler-Portfolio/static/js/3.6de22d65.chunk.js",
+    "static/js/3.6de22d65.chunk.js.map": "/Grace-Butler-Portfolio/static/js/3.6de22d65.chunk.js.map",
+    "index.html": "/Grace-Butler-Portfolio/index.html",
+    "static/css/main.6b3e79d8.chunk.css.map": "/Grace-Butler-Portfolio/static/css/main.6b3e79d8.chunk.css.map",
+    "static/js/2.12366445.chunk.js.LICENSE.txt": "/Grace-Butler-Portfolio/static/js/2.12366445.chunk.js.LICENSE.txt",
+    "static/media/Community Sidekicks.763fc804.png": "/Grace-Butler-Portfolio/static/media/Community Sidekicks.763fc804.png",
+    "static/media/Grace Butler's Resume.6fa31c6e.pdf": "/Grace-Butler-Portfolio/static/media/Grace Butler's Resume.6fa31c6e.pdf",
+    "static/media/IMG_1595.dd3520ac.jpg": "/Grace-Butler-Portfolio/static/media/IMG_1595.dd3520ac.jpg",
+    "static/media/Note Taker screenshot.8f05245e.PNG": "/Grace-Butler-Portfolio/static/media/Note Taker screenshot.8f05245e.PNG",
+    "static/media/Password Generator screenshot.b75a3ec0.PNG": "/Grace-Butler-Portfolio/static/media/Password Generator screenshot.b75a3ec0.PNG",
+    "static/media/ProfilePic.1f4ec49d.jpg": "/Grace-Butler-Portfolio/static/media/ProfilePic.1f4ec49d.jpg",
+    "static/media/Workday scheduler screenshot.e6bd027e.png": "/Grace-Butler-Portfolio/static/media/Workday scheduler screenshot.e6bd027e.png",
+    "static/media/budget tracker screenshot.0f2fc0c0.PNG": "/Grace-Butler-Portfolio/static/media/budget tracker screenshot.0f2fc0c0.PNG",
+    "static/media/coding quiz screenshot.c60e352c.PNG": "/Grace-Butler-Portfolio/static/media/coding quiz screenshot.c60e352c.PNG",
+    "static/media/command line image.cf147fbf.PNG": "/Grace-Butler-Portfolio/static/media/command line image.cf147fbf.PNG",
+    "static/media/download.1f6ea9dc.png": "/Grace-Butler-Portfolio/static/media/download.1f6ea9dc.png",
+    "static/media/fitness tracker screenshot.7467bbad.PNG": "/Grace-Butler-Portfolio/static/media/fitness tracker screenshot.7467bbad.PNG",
+    "static/media/github-logo.1c58b476.png": "/Grace-Butler-Portfolio/static/media/github-logo.1c58b476.png",
+    "static/media/linkedin-logo.db80b661.svg": "/Grace-Butler-Portfolio/static/media/linkedin-logo.db80b661.svg",
+    "static/media/mail-closed-envelope-back.1aeaaa45.svg": "/Grace-Butler-Portfolio/static/media/mail-closed-envelope-back.1aeaaa45.svg",
+    "static/media/pg1.2ec4a19d.PNG": "/Grace-Butler-Portfolio/static/media/pg1.2ec4a19d.PNG",
+    "static/media/pg2.81e8aa13.PNG": "/Grace-Butler-Portfolio/static/media/pg2.81e8aa13.PNG",
+    "static/media/phone-receiver-silhouette.50e1ba72.svg": "/Grace-Butler-Portfolio/static/media/phone-receiver-silhouette.50e1ba72.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d8716c9.js",
+    "static/js/2.12366445.chunk.js",
+    "static/css/main.6b3e79d8.chunk.css",
+    "static/js/main.2d64787c.chunk.js"
+  ]
+}
