@@ -2,9 +2,9 @@ import React from "react";
 
 function Footer(props) {
     return (
-        <div class="footer text-center text-2xl bg-pink text-black">
-            <p>Grace Butler</p>
-        </div>
+        <footer className="header text-center text-2xl bg-black text-white p-2">
+            <a href="https://github.com/gbutler3"> <h1>🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻 Grace Butler 🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;🌻&nbsp;&nbsp;&nbsp;</h1></a>
+        </footer>
     );
 }
 

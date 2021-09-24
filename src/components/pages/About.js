@@ -12,11 +12,6 @@ function AboutSection() {
         <div>
         <img alt= "this is a profile pic" src={AboutPic} style={{height:'15%', width: '15%', borderRadius:'10%', display:'block', margin:'auto' }}></img>
         </div>
-
-        <i class="fab fa-html5"></i>
-        <div>HTML   CSS    JavaScript   React     NodeJS      npm</div>
-
-
     </section> 
   );
 }
